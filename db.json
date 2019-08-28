@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "试用申请",
+    "path": "/apply-on-trial"
+  },
+  {
+    "id": "2",
+    "name": "企业信息管理",
+    "path": "/enterprise"
+  },
+  {
+    "id": "3",
+    "name": "资产管理",
+    "path": "/property"
+  },
+  {
+    "id": "4",
+    "name": "成员管理",
+    "path": "/member"
+  },
+  {
+    "id": "5",
+    "name": "组织架构管理",
+    "path": "/organizational-structure"
+  },
+  {
+    "id": "6",
+    "name": "钥匙管理",
+    "path": "/key"
+  },
+  {
+    "id": "7",
+    "name": "单据管理",
+    "path": "/bill"
+  },
+  {
+    "id": "8",
+    "name": "财务管理",
+    "path": "/finance"
+  }
+]
