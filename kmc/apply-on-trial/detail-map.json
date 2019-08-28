@@ -1,0 +1,64 @@
+[
+  {
+    "label": "企业基础信息",
+    "children": [
+      {
+        "key":"name",
+        "label": "公司名称"
+      },
+      {
+        "key":"status",
+        "label": "信息审核状态"
+      },
+      {
+        "key":"date",
+        "label": "创建时间"
+      },
+      {
+        "key":"type",
+        "label": "客户类型"
+      },
+      {
+        "key": ["startDate", "endDate"],
+        "label": "时间周期"
+      },
+      {
+        "key":"businessAddress",
+        "label": "经营地址"
+      },
+      {
+        "key":"industryNature",
+        "label": "行业性质"
+      },
+      {
+        "key":"scale",
+        "label": "企业规模"
+      },
+      {
+        "key":"useStatus",
+        "label": "状态"
+      }
+    ]
+  },
+  {
+    "label": "联系人信息",
+    "children": [
+      {
+        "key":"contactName",
+        "label": "姓名"
+      },
+      {
+        "key":"contactPhone",
+        "label": "联系电话"
+      },
+      {
+        "key":"contactEMail",
+        "label": "E-mail"
+      },
+      {
+        "key":"contactPosition",
+        "label": "职位"
+      }
+    ]
+  }
+]

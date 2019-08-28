@@ -1,0 +1,37 @@
+{
+  "rows": [
+    {
+      "id": "21321",
+      "name": "abcdefg",
+      "type": "主账户",
+      "date": "2018-10-10",
+      "auditors": "2",
+      "useStatus": "启用"
+    },
+    {
+      "id": "21321",
+      "name": "哈哈哈哈哈",
+      "type": "子账户",
+      "date": "2018-10-10",
+      "auditors": "6",
+      "useStatus": "注销"
+    },
+    {
+      "id": "21321",
+      "name": "公司数字账户",
+      "type": "子账户",
+      "date": "2018-10-10",
+      "auditors": "7",
+      "useStatus": "启用"
+    },
+    {
+      "id": "21321",
+      "name": "翎阳BTC钱包",
+      "type": "子账户",
+      "date": "2018-10-10",
+      "auditors": "10",
+      "useStatus": "启用"
+    }
+  ],
+  "count": 4
+}
